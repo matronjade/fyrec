@@ -1,0 +1,30 @@
+# FYRE Carbon X
+
+Welcome to FYRE Carbon X, a revolutionary Carbon Blockchain Tracker implemented on Google Cloud Platform (GCP) to advance sustainability in web3 technologies.
+
+## Project Overview
+
+### Goal:
+The primary objective of FYRE Carbon X is to track and analyze the carbon footprint of various blockchain networks, promoting transparency, accountability, and sustainability.
+
+### Key Features:
+- **Data Collection Mechanism:**
+  - Robust data collection of blockchain-related metrics, such as transaction energy consumption, consensus algorithm details, and sustainability initiatives.
+
+- **Sustainability Metrics and Smart Contracts:**
+  - Calculation and tracking of sustainability metrics using smart contracts for transparent and enforceable sustainability initiatives.
+
+- **Integration with GCP:**
+  - Seamless integration with Google Cloud Platform services for scalable, reliable, and efficient data storage, processing, and analysis.
+
+## Getting Started
+
+### Prerequisites:
+- Google Cloud Platform Account
+- Node.js and npm installed on your local machine
+
+### Setting Up the Project:
+1. Create Project Directory:
+   ```bash
+   mkdir fyre-carbon-x
+   cd fyre-carbon-x
